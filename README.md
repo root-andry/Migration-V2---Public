@@ -76,7 +76,7 @@ Les utilisateurs SSH à renseigner sont les **propriétaires du site** de chaque
 
 ## Installation
 
-1. Téléchargez `Migration.exe` depuis ce dépôt.
+1. Téléchargez `Migration.exe` depuis la page [Releases](https://github.com/root-andry/Migration-V2---Public/releases/latest) (section *Assets*).
 2. Placez-le dans un dossier de votre choix (par exemple `Documents\Migration`).
 3. Double-cliquez dessus pour le lancer.
 
